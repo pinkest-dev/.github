@@ -1,6 +1,5 @@
 ![Pinkest header](https://github.com/pinkest-dev/.github/blob/main/images/header.jpg)
 ## Разрабатываем лучшие приложения
-----
 Мы разрабатываем высококачественные приложения для различный целей в сфере игровой индустрии и не только...
 
 * [Наша группа в вк](https://vk.com/pinkest_dev)
