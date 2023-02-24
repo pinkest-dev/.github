@@ -1,4 +1,9 @@
-![Pinkest header](https://github.com/pinkest-dev/.github/blob/main/images/header.jpg)
+<h1 align="center">
+   <b>
+        <a href="https://pinkest.dev/main"><img src="https://github.com/pinkest-dev/.github/blob/main/images/header.jpg" /></a><br>
+    </b>
+</h1>
+
 ## Разрабатываем лучшие приложения
 Мы разрабатываем высококачественные приложения для различный целей в сфере игровой индустрии и не только...
 
